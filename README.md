@@ -9,7 +9,7 @@
 ## 🔗 About Me
 - 🌟 **Years of Experience:** 9+ years in backend development and DevOps.
 - 💡 **Mission:** Optimize systems for efficiency and cost while driving innovation.
-- ✍️ **Writer:** Documenting tech insights and experiences ([blog](https://blog.kanthorlabs.com/).
+- ✍️ **Writer:** Documenting tech insights and experiences ([blog](https://blog.kanthorlabs.com/)).
 
 ---
 
