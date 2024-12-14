@@ -2,7 +2,7 @@
 
 🚀 **Backend & Devops Engineer**  
 🔧 Backend | DevOps | Cloud | System Design  
-📈 As a seasoned backend and devops developer with eight years of experience, I am highly adaptable and able to undertake a range of roles within a team. My primary aspirations are to conceive of and build large-scale systems, steer teams to success, and evolve into a dynamic mentor. I’m passionate about learning and improving myself, and I’m always eager to gain new knowledge every day.
+📈 As a seasoned backend and devops developer with nine years of experience, I am highly adaptable and able to undertake a range of roles within a team. My primary aspirations are to conceive of and build large-scale systems, steer teams to success, and evolve into a dynamic mentor. I’m passionate about learning and improving myself, and I’m always eager to gain new knowledge every day.
 
 ---
 
