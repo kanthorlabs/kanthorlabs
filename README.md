@@ -38,7 +38,7 @@
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuannguyen1993/)  
 - 🌐 [Portfolio](https://tuannguyen.kanthorlabs.com/)  
-- 📝 [Blog]((https://blog.kanthorlabs.com/))  
+- 📝 [Blog](https://blog.kanthorlabs.com/)
 
 ---
 
